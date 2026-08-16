@@ -18,7 +18,6 @@
     "@dnd-kit/sortable": "^10.0.0",
     "@dnd-kit/utilities": "^3.2.2",
     "@hookform/resolvers": "^5.1.1",
-    "@lumaai/luma-web": "^0.2.2",
     "@mdxeditor/editor": "^3.39.1",
     "@mkkellogg/gaussian-splats-3d": "^0.4.7",
     "@prisma/client": "^6.11.1",
